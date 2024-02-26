@@ -1,7 +1,7 @@
-<h1 style="display: inline-block;" align="center";>Hi, Akarsh here<img alt="Coding" style="display: inline-block; vertical-align: middle;" height="40" width="40" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif">
+<h1 style="display: inline-block;" align="left";>Hi, Akarsh here<img alt="Coding" style="display: inline-block; vertical-align: middle;" height="40" width="40" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif">
 </h1>
 
-<h3 align="center">Computer Science Undergraduate at LNMIIT, Jaipur</h3>
+<h3 align="left">Computer Science Undergraduate at LNMIIT, Jaipur</h3>
 <br />
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
@@ -44,7 +44,6 @@
    </p>
 
 <br /> 
-<img align="right" alt="Coding" width="1200" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
-<br /> 
+<img align="right" alt="Coding" width="1200" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"> 
 
 
