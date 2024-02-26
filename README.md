@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://akarshportfolio.onrender.com/)
 
-- 📫 How to reach me [Linkedin][https://akarshportfolio.onrender.com/](https://www.linkedin.com/in/akarsh-mahajan/)
+- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/akarsh-mahajan/)
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/drive/u/2/folders/1hUReKpHj1XKvoMI8oy_JQcsYzf_DYsB_)
 
