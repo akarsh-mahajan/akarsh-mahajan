@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning and exploring different technologies
 
-- 🤝 I’m looking for help with Job Opportunities
+- 🤝 I’m looking for Job Opportunities
 
 - 👨‍💻 All of my projects are available at My GitHub
 
