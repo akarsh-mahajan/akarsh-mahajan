@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Akarsh Mahajan</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Computer Science Undergraduate at LNMIIT, Jaipur</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akarsh-mahajan&label=Profile%20views&color=0e75b6&style=flat" alt="akarsh-mahajan" /> </p>
+
+- 🔭 I’m currently working on **my personal projects**
+
+- 🌱 I’m currently learning **and exploring different technologies**
+
+- 🤝 I’m looking for help with **Job Opportunities**
 
 - 👨‍💻 All of my projects are available at [https://akarshportfolio.onrender.com/](https://akarshportfolio.onrender.com/)
 
