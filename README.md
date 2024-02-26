@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akarsh Mahajan</h1>
 <h3 align="center">Computer Science Undergraduate at LNMIIT, Jaipur</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akarsh-mahajan&label=Profile%20views&color=0e75b6&style=flat" alt="akarsh-mahajan" /> </p>
 <img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDg5NTMwOTEsIm5iZiI6MTcwODk1Mjc5MSwicGF0aCI6Ii83NDAzODE5MC8yNjQxNDE2ODMtOGFhOTlmNmMtMjY3ZC00OTc3LTljZDMtMWE0YzExNjc1ODYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjI2VDEzMDYzMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThiMWIwOWRlMTNhNjNiMzVlMjBjMDM4ZWVkMGJjMDQ1ZTUwYTEwN2VmNzY2ZjUzOGMzZjI0N2U2ODc4ZTY0NjImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.gVHUPJAq9qgUn5e7PmPAqJVEJIJKT1fGIQAB1cvaFRk">
 
 
