@@ -9,11 +9,11 @@
 
 - 🤝 I’m looking for help with **Job Opportunities**
 
-- 👨‍💻 All of my projects are available at [https://akarshportfolio.onrender.com/](https://akarshportfolio.onrender.com/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://akarshportfolio.onrender.com/)
 
 - 📫 How to reach me **akarshmahajan23@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/2/folders/1hUReKpHj1XKvoMI8oy_JQcsYzf_DYsB_](https://drive.google.com/drive/u/2/folders/1hUReKpHj1XKvoMI8oy_JQcsYzf_DYsB_)
+- 📄 Know about my experiences [Resume_](https://drive.google.com/drive/u/2/folders/1hUReKpHj1XKvoMI8oy_JQcsYzf_DYsB_)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
