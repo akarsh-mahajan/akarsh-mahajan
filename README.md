@@ -1,4 +1,6 @@
-<h1 align="center">Hi, Akarsh here 👋 </h1>
+<h1 style="display: inline-block;" align="center";>Hi, Akarsh here<img alt="Coding" style="display: inline-block; vertical-align: middle;" height="40" width="40" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif">
+</h1>
+
 <h3 align="center">Computer Science Undergraduate at LNMIIT, Jaipur</h3>
 <br />
 
