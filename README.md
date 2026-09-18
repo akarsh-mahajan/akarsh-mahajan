@@ -1,17 +1,13 @@
 <h1 style="display: inline-block;" align="left";>Hi, Akarsh here<img alt="Coding" style="display: inline-block; vertical-align: middle;" height="40" width="40" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif">
 </h1>
 
-<h3 align="left">Computer Science Undergraduate at LNMIIT, Jaipur</h3>
+<h3 align="left">Software Engineer at e6data Inc</h3>
 <br />
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 
-- 🔭 I’m currently working on my personal projects
-
-- 🌱 I’m currently learning and exploring different technologies
-
-- 🤝 I’m looking for Job Opportunities
+- 🔭 I’m currently working as a Software Engineer at e6data Inc.
 
 - 👨‍💻 All of my projects are available at My GitHub
 
